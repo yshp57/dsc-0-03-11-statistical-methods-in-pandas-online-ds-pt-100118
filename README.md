@@ -1,4 +1,17 @@
 
+# Statistical Methods in Pandas
+
+## Introduction
+
+In this lesson you'll learn how to use some of the key summary statistics methods in Pandas.
+
+## Objectives:
+You will be able to:
+* Understand and use the df.describe() and df.info() summary statistics methods
+* Use built-in Pandas methods for calculating summary statistics (pd.mean, pd.std, count(), sum(), mean(), median(), std(), var() and quantile())
+* Apply a function to every element in a Series or DataFrame using s.apply() and df.applymap()
+
+
 # Dictionaries
 
 Another built in python data structure is the dictionary. Dictionaries creating mappings between key value pairs like so:  
@@ -972,3 +985,7 @@ df.groupby('theme_name').agg(agg_dict)
 </div>
 
 
+
+## Summary
+
+In this lesson we looked at some of the key summary statistics methods in Pandas. In the next lesson ou'll get some hands on experience working with them.
