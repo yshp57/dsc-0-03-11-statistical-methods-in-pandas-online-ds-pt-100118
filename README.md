@@ -988,4 +988,4 @@ df.groupby('theme_name').agg(agg_dict)
 
 ## Summary
 
-In this lesson we looked at some of the key summary statistics methods in Pandas. In the next lesson ou'll get some hands on experience working with them.
+In this lesson we looked at some of the key summary statistics methods in Pandas. In the next lesson you'll get some hands on experience working with them.
